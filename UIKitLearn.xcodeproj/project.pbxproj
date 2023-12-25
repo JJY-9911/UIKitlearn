@@ -88,9 +88,9 @@
 		E7360F932B2FE1E400738731 /* UIKitLearn */ = {
 			isa = PBXGroup;
 			children = (
+				E7360F982B2FE1E400738731 /* ViewController.swift */,
 				E7360F942B2FE1E400738731 /* AppDelegate.swift */,
 				E7360F962B2FE1E400738731 /* SceneDelegate.swift */,
-				E7360F982B2FE1E400738731 /* ViewController.swift */,
 				E7360F9A2B2FE1E400738731 /* Main.storyboard */,
 				E7360F9D2B2FE1E500738731 /* Assets.xcassets */,
 				E7360F9F2B2FE1E500738731 /* LaunchScreen.storyboard */,
